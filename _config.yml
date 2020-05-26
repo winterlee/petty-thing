@@ -22,7 +22,7 @@ title: 我的日常
 email: 55110611@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   记录生活中发生的一些事情和感悟。
-baseurl: "/petty-thing" # the subpath of your site, e.g. /blog
+baseurl: "petty-thing" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  winterlee
