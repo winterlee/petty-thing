@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 个人档案
 permalink: /about/
 ---
 
